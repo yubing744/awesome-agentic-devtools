@@ -99,6 +99,7 @@ Create full-stack web applications from natural language descriptions.
 | **[Claude Code](https://docs.anthropic.com/claude-code)** | Anthropic's CLI coding assistant | N/A | `npm install -g @anthropic-ai/claude-code` |
 | **[GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/)** | AI-powered command suggestions | N/A | `gh extension install github/gh-copilot` |
 | **[Warp](https://warp.dev)** | AI-enhanced terminal | N/A | Download from website |
+| **[agent-manager](https://github.com/fractalmind-ai/agent-manager-skill)** | tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign + cron scheduling) | ![Stars](https://img.shields.io/github/stars/fractalmind-ai/agent-manager-skill.svg) | `openskills install fractalmind-ai/agent-manager-skill` |
 
 ### AI Agents & Assistants
 
